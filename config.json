@@ -1,0 +1,175 @@
+{
+ "studente": "Sophia",
+ "rientri": [
+  1,
+  2,
+  3
+ ],
+ "sempre": [
+  "Astuccio",
+  "Diario",
+  "Borraccia",
+  "Merenda"
+ ],
+ "materie": [
+  {
+   "nome": "Italiano",
+   "colore": "#e5484d",
+   "materiale": [
+    "Libro di antologia",
+    "Libro di grammatica",
+    "Quaderno di italiano"
+   ]
+  },
+  {
+   "nome": "Storia",
+   "colore": "#8d6e63",
+   "materiale": [
+    "Libro di storia",
+    "Quaderno di storia"
+   ]
+  },
+  {
+   "nome": "Geografia",
+   "colore": "#46a758",
+   "materiale": [
+    "Libro di geografia",
+    "Quaderno di geografia"
+   ]
+  },
+  {
+   "nome": "Matematica",
+   "colore": "#3e63dd",
+   "materiale": [
+    "Libro di matematica",
+    "Quaderno a quadretti",
+    "Righello"
+   ]
+  },
+  {
+   "nome": "Scienze",
+   "colore": "#12a594",
+   "materiale": [
+    "Libro di scienze",
+    "Quaderno di scienze"
+   ]
+  },
+  {
+   "nome": "Inglese",
+   "colore": "#0090ff",
+   "materiale": [
+    "Libro di inglese",
+    "Quaderno di inglese"
+   ]
+  },
+  {
+   "nome": "Tedesco",
+   "colore": "#f76b15",
+   "materiale": [
+    "Libro di tedesco",
+    "Quaderno di tedesco"
+   ]
+  },
+  {
+   "nome": "Tecnologia",
+   "colore": "#7c8494",
+   "materiale": [
+    "Libro di tecnologia",
+    "Album da disegno tecnico",
+    "Squadrette e compasso"
+   ]
+  },
+  {
+   "nome": "Arte e immagine",
+   "colore": "#d6409f",
+   "materiale": [
+    "Album da disegno",
+    "Matite colorate e pennarelli"
+   ]
+  },
+  {
+   "nome": "Musica",
+   "colore": "#6e56cf",
+   "materiale": [
+    "Libro di musica",
+    "Quaderno pentagrammato",
+    "Flauto o glockenspiel"
+   ]
+  },
+  {
+   "nome": "Motoria",
+   "colore": "#e2a336",
+   "materiale": [
+    "Tuta e scarpe da ginnastica",
+    "Asciugamano e maglietta di ricambio"
+   ]
+  },
+  {
+   "nome": "Religione",
+   "colore": "#b5651d",
+   "materiale": [
+    "Quaderno di religione"
+   ]
+  }
+ ],
+ "orario": {
+  "1": [
+   "Italiano",
+   "Italiano",
+   "Inglese",
+   "Inglese",
+   "Matematica",
+   "Matematica",
+   "Storia",
+   "Storia"
+  ],
+  "2": [
+   "Italiano",
+   "Italiano",
+   "Matematica",
+   "Matematica",
+   "Motoria",
+   "Motoria",
+   "Motoria"
+  ],
+  "3": [
+   "Tedesco",
+   "Tedesco",
+   "Religione",
+   "Matematica",
+   "Scienze",
+   "Scienze",
+   "Musica"
+  ],
+  "4": [
+   "Tecnologia",
+   "Tecnologia",
+   "Geografia",
+   "Geografia",
+   "Italiano",
+   "Italiano"
+  ],
+  "5": [
+   "Arte e immagine",
+   "Arte e immagine",
+   "Inglese",
+   "Tedesco",
+   "Italiano",
+   "Italiano"
+  ]
+ },
+ "docenti": {
+  "ZANINI": "Matematica",
+  "BRANZ": "Tedesco",
+  "CARLONI": "Inglese",
+  "MACCAGNOLA": "Italiano",
+  "POLI": "Tecnologia",
+  "CARTECHINI": "Scienze",
+  "CATAUDELLA": "Musica",
+  "PALUMBO": "Motoria",
+  "BERTASINI": "Geografia",
+  "VACCARO": "Arte e immagine"
+ },
+ "sessioni_verifica": 3,
+ "sessioni_interrogazione": 2
+}
